@@ -37,7 +37,7 @@ Establece el nombre de usuario de manera global dejando a Git el usar esa inform
 git status:
 Sirve para mostrar el estado del repositorio dejando ver la pista de filas y los cambios.
 git push origin <master>:
-Remplaza master por la rama a la cual se quiere enviar los cambios
+Remplaza master por la rama a la cual se quiere enviar los cambios.
 git merge <branch> 
-Sirve para fusionar otra rama a tu rama activa
+Sirve para fusionar otra rama a tu rama activa.
 ```
