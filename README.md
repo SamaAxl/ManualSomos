@@ -21,10 +21,17 @@ Se utiliza para eliminar la rama con el nombre establecido.
 git rm filename.txt:
 Se utiliza para eliminar el archivo establecido.
 
-git pull
-git clone
-git add
-git config --global user.email
+git pull: 
+Extrae y descarga contenido del repositorio remoto y actualizar el local, combinacion de fetch y merge.
+
+git clone: 
+Accion de crear la copia de un repositorio existente, el cual se guarda de forma local, copiando todo el contenido y creando un branch inicial.
+git add: 
+Agrega el archivo al repositorio, tambien es posible utilizarse para actualizar un archivo.
+
+git config --global user.email: 
+Se introduce el correo de la cuenta para el repositorio que dara acceso a los commit que se vayan a enviar.
+
 git config --global user.username
 git status
 git push origin <master>
