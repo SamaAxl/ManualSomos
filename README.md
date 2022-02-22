@@ -1,1 +1,2 @@
 # ManualSomos
+odio francia 
