@@ -32,8 +32,12 @@ Agrega el archivo al repositorio, tambien es posible utilizarse para actualizar 
 git config --global user.email: 
 Se introduce el correo de la cuenta para el repositorio que dara acceso a los commit que se vayan a enviar.
 
-git config --global user.username
-git status
-git push origin <master>
-git merge <branch> a
+git config --global user.username:
+Establece el nombre de usuario de manera global dejando a Git el usar esa informacion para todo lo que se llegue a realizar.
+git status:
+Sirve para mostrar el estado del repositorio dejando ver la pista de filas y los cambios.
+git push origin <master>:
+Remplaza master por la rama a la cual se quiere enviar los cambios
+git merge <branch> 
+Sirve para fusionar otra rama a tu rama activa
 ```
