@@ -1,8 +1,13 @@
 ## Comandos de git utilizados en clase:
 ```
-git init
-git commit -m ""
-git checkout
+git init: 
+Sirve para crear un nuevo repositorio de Git, o para convertir uno ya existente y sin versión a uno de Git.
+
+git commit -m "": 
+Sirve para guardar los cambios hechos, entre las comillas van los detalles de los mismos. No fusiona los cambios con la rama Main.
+
+git checkout: 
+Permite desplazarse entre las distintas ramas del repositorio, extrayendo una copia local de los archivos de los mismos en el repositorio local.
 
 git remote add origin <host o URL remota>:
 Este comando se utiliza para añadir un repositorio remoto al repositorio local de git.
