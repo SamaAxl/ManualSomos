@@ -74,9 +74,14 @@ Sirve para fusionar otra rama a tu rama activa
 git merge <branch> 
 ```
 ## Issues en Github:
+Una persona que este inconforme con algun aspecto del repositorio puede crear un nuevo issue que notificara dicha inconformidad abriendo un area para tocar el tema a cambiar.
 
+![Imagen Issue](https://1.bp.blogspot.com/-vYjqt4GgPdk/XVfHPDjtK8I/AAAAAAAABSw/cyfUQiugqJov7SQT97El6BdLMvQOUE0ywCLcBGAs/s1600/github_issues_tab.png)
 
 
 
 
 ## Pull Request en Github:
+Puedes realizar una petición para que tu branch con sus commits propios se apliquen a otra branch. Esta petición se revisara y se aceptada o denegara dependiendo de los pertenecientes al repositorio.
+
+![Imagen Pull](https://user-images.githubusercontent.com/95052694/155225737-96693d0e-252d-4925-99b1-e3c341b95b5a.png)
