@@ -73,4 +73,10 @@ Sirve para fusionar otra rama a tu rama activa
 ```
 git merge <branch> 
 ```
+## Issues en Github:
 
+
+
+
+
+## Pull Request en Github:
