@@ -13,5 +13,5 @@ git config --global user.email
 git config --global user.username
 git status
 git push origin <master>
-git merge <branch>
+git merge <branch> a
 ```
