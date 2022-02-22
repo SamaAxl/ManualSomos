@@ -1,5 +1,5 @@
-# ManualSomos
-
+## Comandos de git utilizados en clase:
+```
 git init
 git commit -m ""
 git checkout
@@ -14,3 +14,4 @@ git config --global user.username
 git status
 git push origin <master>
 git merge <branch>
+```
