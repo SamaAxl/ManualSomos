@@ -26,6 +26,7 @@ Extrae y descarga contenido del repositorio remoto y actualizar el local, combin
 
 git clone: 
 Accion de crear la copia de un repositorio existente, el cual se guarda de forma local, copiando todo el contenido y creando un branch inicial.
+
 git add: 
 Agrega el archivo al repositorio, tambien es posible utilizarse para actualizar un archivo.
 
@@ -34,10 +35,13 @@ Se introduce el correo de la cuenta para el repositorio que dara acceso a los co
 
 git config --global user.username:
 Establece el nombre de usuario de manera global dejando a Git el usar esa informacion para todo lo que se llegue a realizar.
+
 git status:
 Sirve para mostrar el estado del repositorio dejando ver la pista de filas y los cambios.
+
 git push origin <master>:
 Remplaza master por la rama a la cual se quiere enviar los cambios.
+
 git merge <branch> 
 Sirve para fusionar otra rama a tu rama activa.
 ```
